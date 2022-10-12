@@ -12,7 +12,7 @@ Foi construída com React.js e componentizada com Material UI.
 
 ### Link da Aplicação
 
-[https://space-traveling-psi.vercel.app](https://rocketseat-challenge---campin.web.app)
+https://rocketseat-challenge---campin.web.app
 
 ### Tecnologias Usadas
 
