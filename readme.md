@@ -1,4 +1,4 @@
-## Github Explorer
+## Camp.in
 
 Site feito como parte dos desafios de [Discover - Rocketseat](https://app.rocketseat.com.br/discover/challenges).
 
